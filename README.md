@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Rodrigo López Escobedo  
 
-<!--
-**RodrigooLpzz/RodrigooLpzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at UANL  
+💻 Passionate about **Front-End Development** and creating user-friendly web experiences.  
+⚡ Also experienced in **Python, Java, C, and C++**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Front-End:** HTML, CSS, JavaScript, Responsive Design  
+- **Programming:** Python, Java, C, C++  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📂 Projects
+- 🎮 [Alien Invasion](https://github.com/RodrigooLpzz/Alien_Invasion) – Python video game with unit testing  
+- 🌐 Front-End Projects – Personal websites and responsive layouts using HTML, CSS, and JS  
+
+---
+
+## 📫 Contact
+- 📧 Email: rodrigo.lopezescobedo05@gmail.com
+- 🐙 [GitHub](https://github.com/RodrigooLpzz)  
+
+---
+
+✨ Always learning and building new projects!
