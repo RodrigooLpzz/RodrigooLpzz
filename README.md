@@ -15,7 +15,7 @@
 
 ## 📂 Projects
 - 🎮 [Alien Invasion](https://github.com/RodrigooLpzz/Alien_Invasion) – Python video game with unit testing  
-- 🌐 Front-End Projects – Personal websites and responsive layouts using HTML, CSS, and JS  
+- 🌐 [Front-End Projects](https://github.com/RodrigooLpzz/Front-end-Projects) – Personal websites and responsive layouts using HTML, CSS, and JS  
 
 ---
 
